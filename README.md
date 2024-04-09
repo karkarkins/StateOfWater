@@ -6,6 +6,9 @@ Created by: Dakarai Lanes, Kadin Henningham, Evan Jones, and Anthony Charleston
 Project Twist: Water
 Genre: 2D Platformer
 
+![StateOfWaterTitle](https://github.com/karkarkins/StateOfWater/assets/166472171/3cc7fb93-cf17-4352-bc1e-60ac0c04325c)
+
+
 In State of Water, players control a faucet-fallen drop of water determined to return to nature and back to the glorious water cycle. During their escape from the indoors, our water drop encounters various thirsty plants and a daunting kitchen landscape. Luckily, the powerful states of matter, liquid, solid, and gas, are at your disposal.
 
 The fundamental mechanic of State of Water is the ability to shift through the different states of matter to affect gameplay.
